@@ -1,0 +1,24 @@
+import Foundation
+protocol ProcedimentoGenerico {
+	func acaoPadrao(name: String)
+}
+class ProcedimentoSelecionado: ProcedimentoGenerico {
+	func acaoPadrao(name: String) {
+	print("Acao Esperada")
+	}
+}
+
+class ClassUtilizadora {
+	private let procedimentoGenerico: ProcedimentoGenerico
+	init(procedimentoGenerico: ProcedimentoGenerico) {
+		self.procedimentoGenerico = procedimentoGenerico
+	}
+	func funcaoClassUtilizadora() {
+		print("Mensagem da funcao")
+		procedimentoGenerico.acaoPadrao(name: "ClasseUtilizadora")
+	}
+}
+	
+let instanciaSelecionada = ProcedimentoSelecionado()
+let classUtilizadora = ClassUtilizadora(procedimentoGenerico: instanciaSelecionada)
+classUtilizadora.funcaoClassUtilizadora()
