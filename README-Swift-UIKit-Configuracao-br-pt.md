@@ -1,6 +1,4 @@
-# O basico do Xcode e Swift
-
-# XcodeとSwiftの基本
+# Configuracao Swift
 
 Configurando o Xcode para usar o UIKit
 UIKit を使用するように Xcode を構成する
