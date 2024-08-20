@@ -5,32 +5,32 @@ UIKit を使用するように Xcode を構成する
 
 ##### Figura 01
 
-![](Swift-UIKit-Configuracao-Img01.png)
+![Figura 01](Imagens/Swift-UIKit-Configuracao-Img01.png)
 
 ##### Figura 02
 
-![](Imagens/Swift-UIKit-Configuracao-Img02.png)
+![Figura 02](Imagens/Swift-UIKit-Configuracao-Img02.png)
 
 ##### Figura 03
 
-![](Imagens/Swift-UIKit-Configuracao-Img03.png)
+![Figura 03](Imagens/Swift-UIKit-Configuracao-Img03.png)
 
 ##### Figura 04
 
-![](Imagens/Swift-UIKit-Configuracao-Img04.png)
+![Figura 04](Imagens/Swift-UIKit-Configuracao-Img04.png)
 
 ##### Figura 05
 
-![](Imagens/Swift-UIKit-Configuracao-Img05.png)
+![Figura 05](Imagens/Swift-UIKit-Configuracao-Img05.png)
 
 ##### Figura 06
 
-![](Imagens/Swift-UIKit-Configuracao-Img06.png)
+![Figura 06](Imagens/Swift-UIKit-Configuracao-Img06.png)
 
 ##### Figura 07
 
-![](Imagens/Swift-UIKit-Configuracao-Img07.png)
+![Figura 07](Imagens/Swift-UIKit-Configuracao-Img07.png)
 
 ##### Figura 08
 
-![](Imagens/Swift-UIKit-Configuracao-Img08.png)
+![Figura 08](Imagens/Swift-UIKit-Configuracao-Img08.png)
