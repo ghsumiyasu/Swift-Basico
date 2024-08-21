@@ -17,6 +17,12 @@ UIKit を使用するように Xcode を構成する
   E esta linha também.
 </p>
 
+<center>Centralizando de forma antiga html</center>
+
+<div align="center">
+  Mesma coisa usando o div align
+</div>
+
 ##### Figura 02
 
 ![](Imagens/Swift-UIKit-Configuracao-Img02.png)
@@ -44,8 +50,6 @@ UIKit を使用するように Xcode を構成する
 ##### Figura 08
 
 ![](Imagens/Swift-UIKit-Configuracao-Img08.png)
-
-
 
 
 
