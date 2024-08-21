@@ -1,51 +1,51 @@
-# Configuração Swift
+# Swift の 設定
 
-Configurando o Xcode para usar o UIKit
+UIKit を使用するように Xcode を準備する
 
 ![](Imagens/Swift-UIKit-Configuracao-Img01.png)
 
 <div align="center">
-Figura 01
+絵 01
 </div>
 
 ![](Imagens/Swift-UIKit-Configuracao-Img02.png)
 
 <div align="center">
-Figura 02
+絵 02
 </div>
 
 ![](Imagens/Swift-UIKit-Configuracao-Img03.png)
 
 <div align="center">
-Figura 03
+絵 03
 </div>
 
 ![](Imagens/Swift-UIKit-Configuracao-Img04.png)
 
 <div align="center">
-Figura 04
+絵 04
 </div>
 
 ![](Imagens/Swift-UIKit-Configuracao-Img05.png)
 
 <div align="center">
-Figura 05
+絵 05
 </div>
 
 ![](Imagens/Swift-UIKit-Configuracao-Img06.png)
 
 <div align="center">
-Figura 06
+絵 06
 </div>
 
 ![](Imagens/Swift-UIKit-Configuracao-Img07.png)
 
 <div align="center">
-Figura 07
+絵 07
 </div>
 
 ![](Imagens/Swift-UIKit-Configuracao-Img08.png)
 
 <div align="center">
-Figura 08
+絵 08
 </div>

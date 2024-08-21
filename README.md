@@ -8,8 +8,6 @@ Vamos estudar esta ferramenta para desenvolvimento de aplicativos
 
 ## [Introdução - UIKit](https://github.com/ghsumiyasu/Swift-Basico/blob/main/README-Swift-UIKit-Introducao-br-pt.md)
 
-
-
-## はじめに - UIKit - 構成
+## [はじめに - UIKit](https://github.com/ghsumiyasu/Swift-Basico/blob/main/README-Swift-UIKit-Introducao-jp.md)
 
 
