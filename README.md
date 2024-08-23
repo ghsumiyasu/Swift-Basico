@@ -1,6 +1,6 @@
 # Linguagem de programação Swift da Apple
 
-Vamos estudar esta ferramenta para desenvolvimento de aplicativos
+Vamos estudar esta ferramenta para desenvolvimento de aplicativos!
 
 # アップルのスウィフト言語
 
